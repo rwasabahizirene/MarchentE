@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="20" passed="20">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Create new user test scenarios (0)" duration-ms="44028" started-at="2020-07-01T16:12:28Z" finished-at="2020-07-01T16:13:12Z">
+    <groups>
+    </groups>
+    <test name="Filter user name and email using Equals" duration-ms="44028" started-at="2020-07-01T16:12:28Z" finished-at="2020-07-01T16:13:12Z">
+      <class name="com.selenium.solution.tests.UserFiltersTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="setUp" is-config="true" duration-ms="6916" started-at="2020-07-01T16:12:28Z" finished-at="2020-07-01T16:12:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filter_User_By_Name_Email_Equals(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="filter_User_By_Name_Email_Equals" duration-ms="917" started-at="2020-07-01T16:12:35Z" finished-at="2020-07-01T16:12:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test@test.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_User_By_Name_Email_Equals -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="tearDown" is-config="true" duration-ms="637" started-at="2020-07-01T16:12:36Z" finished-at="2020-07-01T16:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="setUp" is-config="true" duration-ms="6906" started-at="2020-07-01T16:12:36Z" finished-at="2020-07-01T16:12:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filter_User_By_Name_Email_Contains(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="filter_User_By_Name_Email_Contains" duration-ms="1006" started-at="2020-07-01T16:12:43Z" finished-at="2020-07-01T16:12:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_User_By_Name_Email_Contains -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="tearDown" is-config="true" duration-ms="633" started-at="2020-07-01T16:12:44Z" finished-at="2020-07-01T16:12:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="setUp" is-config="true" duration-ms="6801" started-at="2020-07-01T16:12:45Z" finished-at="2020-07-01T16:12:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filter_User_By_Name_Email_StartsWith(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="filter_User_By_Name_Email_StartsWith" duration-ms="1063" started-at="2020-07-01T16:12:52Z" finished-at="2020-07-01T16:12:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[test]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_User_By_Name_Email_StartsWith -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-07-01T16:12:53Z" finished-at="2020-07-01T16:12:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="setUp" is-config="true" duration-ms="6842" started-at="2020-07-01T16:12:53Z" finished-at="2020-07-01T16:13:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filter_User_By_Name_Email_EndsWith(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="filter_User_By_Name_Email_EndsWith" duration-ms="916" started-at="2020-07-01T16:13:00Z" finished-at="2020-07-01T16:13:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[a]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[a.aaa]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_User_By_Name_Email_EndsWith -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="tearDown" is-config="true" duration-ms="1502" started-at="2020-07-01T16:13:01Z" finished-at="2020-07-01T16:13:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="setUp" is-config="true" duration-ms="6964" started-at="2020-07-01T16:13:03Z" finished-at="2020-07-01T16:13:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="filter_User_By_Date_From_To(java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="filter_User_By_Date_From_To" duration-ms="1645" started-at="2020-07-01T16:13:10Z" finished-at="2020-07-01T16:13:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2020-06-14]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[2020-06-30]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- filter_User_By_Date_From_To -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.UserFiltersTest@643b1d11]" name="tearDown" is-config="true" duration-ms="635" started-at="2020-07-01T16:13:11Z" finished-at="2020-07-01T16:13:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.solution.tests.UserFiltersTest -->
+    </test> <!-- Filter user name and email using Equals -->
+  </suite> <!-- Create new user test scenarios (0) -->
+  <suite name="Run All Test Solution" duration-ms="0" started-at="2020-07-01T16:13:21Z" finished-at="2020-07-01T16:13:21Z">
+    <groups>
+    </groups>
+  </suite> <!-- Run All Test Solution -->
+  <suite name="UI Test Solution" duration-ms="0" started-at="2020-07-01T16:13:21Z" finished-at="2020-07-01T16:13:21Z">
+    <groups>
+    </groups>
+  </suite> <!-- UI Test Solution -->
+  <suite name="Create new user test scenarios" duration-ms="39198" started-at="2020-07-01T16:11:48Z" finished-at="2020-07-01T16:12:28Z">
+    <groups>
+    </groups>
+    <test name="Create and update new user" duration-ms="39198" started-at="2020-07-01T16:11:48Z" finished-at="2020-07-01T16:12:28Z">
+      <class name="com.selenium.solution.tests.CreateNewUserTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="setUp" is-config="true" duration-ms="8228" started-at="2020-07-01T16:11:49Z" finished-at="2020-07-01T16:11:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createNewUser(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="createNewUser" duration-ms="1943" started-at="2020-07-01T16:11:57Z" finished-at="2020-07-01T16:11:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[testi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[testi@testi.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[testi]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jajaUpdate]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[jajaUpdate@jaja.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createNewUser -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="tearDown" is-config="true" duration-ms="638" started-at="2020-07-01T16:11:59Z" finished-at="2020-07-01T16:11:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="setUp" is-config="true" duration-ms="7554" started-at="2020-07-01T16:11:59Z" finished-at="2020-07-01T16:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createsAndDeleteUsers(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="createsAndDeleteUsers" duration-ms="5814" started-at="2020-07-01T16:12:07Z" finished-at="2020-07-01T16:12:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tata]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tata@tata.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tata]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[jajaUpdate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createsAndDeleteUsers -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="tearDown" is-config="true" duration-ms="646" started-at="2020-07-01T16:12:13Z" finished-at="2020-07-01T16:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="setUp" is-config="true" duration-ms="7073" started-at="2020-07-01T16:12:13Z" finished-at="2020-07-01T16:12:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createUserErrorValidation(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="createUserErrorValidation" duration-ms="6497" started-at="2020-07-01T16:12:20Z" finished-at="2020-07-01T16:12:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[duplicate]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[duplicate@duplicate.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[duplicate]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createUserErrorValidation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.selenium.solution.tests.CreateNewUserTest@5cc7c2a6]" name="tearDown" is-config="true" duration-ms="666" started-at="2020-07-01T16:12:27Z" finished-at="2020-07-01T16:12:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.selenium.solution.tests.CreateNewUserTest -->
+    </test> <!-- Create and update new user -->
+  </suite> <!-- Create new user test scenarios -->
+  <suite name="API Test Solution" duration-ms="8914" started-at="2020-07-01T16:13:12Z" finished-at="2020-07-01T16:13:21Z">
+    <groups>
+    </groups>
+    <test name="Users Post Request" duration-ms="2619" started-at="2020-07-01T16:13:12Z" finished-at="2020-07-01T16:13:15Z">
+      <class name="com.restAssured.solution.users.PostRequest">
+        <test-method status="PASS" signature="httpPostRequest()[pri:1, instance:com.restAssured.solution.users.PostRequest@62ee68d8]" name="httpPostRequest" duration-ms="2242" started-at="2020-07-01T16:13:12Z" finished-at="2020-07-01T16:13:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostRequest -->
+        <test-method status="PASS" signature="validatePostWithGetRequest()[pri:2, instance:com.restAssured.solution.users.PostRequest@62ee68d8]" name="validatePostWithGetRequest" duration-ms="376" started-at="2020-07-01T16:13:14Z" finished-at="2020-07-01T16:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostWithGetRequest -->
+      </class> <!-- com.restAssured.solution.users.PostRequest -->
+    </test> <!-- Users Post Request -->
+    <test name="Users Put Request" duration-ms="1081" started-at="2020-07-01T16:13:15Z" finished-at="2020-07-01T16:13:16Z">
+      <class name="com.restAssured.solution.users.PutRequest">
+        <test-method status="PASS" signature="httpPutCall()[pri:3, instance:com.restAssured.solution.users.PutRequest@548a9f61]" name="httpPutCall" duration-ms="673" started-at="2020-07-01T16:13:15Z" finished-at="2020-07-01T16:13:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPutCall -->
+        <test-method status="PASS" signature="validatePutWithGetRequest()[pri:4, instance:com.restAssured.solution.users.PutRequest@548a9f61]" name="validatePutWithGetRequest" duration-ms="408" started-at="2020-07-01T16:13:15Z" finished-at="2020-07-01T16:13:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePutWithGetRequest -->
+      </class> <!-- com.restAssured.solution.users.PutRequest -->
+    </test> <!-- Users Put Request -->
+    <test name="Posts Post Request" duration-ms="1342" started-at="2020-07-01T16:13:16Z" finished-at="2020-07-01T16:13:17Z">
+      <class name="com.restAssured.solution.posts.PostsRequest">
+        <test-method status="PASS" signature="httpPostCall()[pri:1, instance:com.restAssured.solution.posts.PostsRequest@28feb3fa]" name="httpPostCall" duration-ms="1069" started-at="2020-07-01T16:13:16Z" finished-at="2020-07-01T16:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostCall -->
+        <test-method status="PASS" signature="validatePostWithGetRequest()[pri:2, instance:com.restAssured.solution.posts.PostsRequest@28feb3fa]" name="validatePostWithGetRequest" duration-ms="271" started-at="2020-07-01T16:13:17Z" finished-at="2020-07-01T16:13:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostWithGetRequest -->
+      </class> <!-- com.restAssured.solution.posts.PostsRequest -->
+    </test> <!-- Posts Post Request -->
+    <test name="Posts Put Request" duration-ms="1031" started-at="2020-07-01T16:13:17Z" finished-at="2020-07-01T16:13:18Z">
+      <class name="com.restAssured.solution.users.PutRequest">
+        <test-method status="PASS" signature="httpPutCall()[pri:3, instance:com.restAssured.solution.users.PutRequest@7823a2f9]" name="httpPutCall" duration-ms="677" started-at="2020-07-01T16:13:17Z" finished-at="2020-07-01T16:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPutCall -->
+        <test-method status="PASS" signature="validatePutWithGetRequest()[pri:4, instance:com.restAssured.solution.users.PutRequest@7823a2f9]" name="validatePutWithGetRequest" duration-ms="352" started-at="2020-07-01T16:13:18Z" finished-at="2020-07-01T16:13:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePutWithGetRequest -->
+      </class> <!-- com.restAssured.solution.users.PutRequest -->
+    </test> <!-- Posts Put Request -->
+    <test name="Comments Post Request" duration-ms="1312" started-at="2020-07-01T16:13:18Z" finished-at="2020-07-01T16:13:20Z">
+      <class name="com.restAssured.solution.comments.PostRequest">
+        <test-method status="PASS" signature="httpPostCall()[pri:1, instance:com.restAssured.solution.comments.PostRequest@6767c1fc]" name="httpPostCall" duration-ms="949" started-at="2020-07-01T16:13:18Z" finished-at="2020-07-01T16:13:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPostCall -->
+        <test-method status="PASS" signature="validatePostWithGetRequest()[pri:2, instance:com.restAssured.solution.comments.PostRequest@6767c1fc]" name="validatePostWithGetRequest" duration-ms="362" started-at="2020-07-01T16:13:19Z" finished-at="2020-07-01T16:13:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePostWithGetRequest -->
+      </class> <!-- com.restAssured.solution.comments.PostRequest -->
+    </test> <!-- Comments Post Request -->
+    <test name="Comments Put Request" duration-ms="1363" started-at="2020-07-01T16:13:20Z" finished-at="2020-07-01T16:13:21Z">
+      <class name="com.restAssured.solution.comments.PutRequest">
+        <test-method status="PASS" signature="httpPutCall()[pri:1, instance:com.restAssured.solution.comments.PutRequest@cb5822]" name="httpPutCall" duration-ms="1061" started-at="2020-07-01T16:13:20Z" finished-at="2020-07-01T16:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- httpPutCall -->
+        <test-method status="PASS" signature="validatePutWithGetRequest()[pri:2, instance:com.restAssured.solution.comments.PutRequest@cb5822]" name="validatePutWithGetRequest" duration-ms="301" started-at="2020-07-01T16:13:21Z" finished-at="2020-07-01T16:13:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validatePutWithGetRequest -->
+      </class> <!-- com.restAssured.solution.comments.PutRequest -->
+    </test> <!-- Comments Put Request -->
+  </suite> <!-- API Test Solution -->
+</testng-results>

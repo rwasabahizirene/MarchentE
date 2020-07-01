@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8bb5c321-6b99-4b76-abc9-d2d7417e4944" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exercise.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MerchantE - Shortcut.lnk" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/reports/extent-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/comments/Comments.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/posts/Posts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/users/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/users/Company.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/users/Geo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/pojos/users/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/utilities/DataHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/restAssured/solution/utilities/PropertyHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/AdminPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/BasePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/NewUserPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/UsersHomePage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/ViewUserDetailsPage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/selenium/solution/utilities/PageFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/interview.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/extentReport/ExtentManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/extentReport/ExtentTestManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/extentReport/TestListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/comments/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/comments/PutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/posts/PostsRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/posts/PutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/specBuilder/SpecBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/users/PostRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/restAssured/solution/users/PutRequest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/solution/tests/BaseTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/solution/tests/CreateNewUserTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/selenium/solution/tests/UserFiltersTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/comments/post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/comments/put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/comments/wrongData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/posts/post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/posts/put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/posts/wrongData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testSuites/API_Test_Solution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testSuites/Run_All_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testSuites/UI_Test_Solution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testSuites/createUserSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/testSuites/filterUserTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/users/Users_Post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/users/Users_Put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/users/wrongData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/comments/Comments.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/posts/Posts.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/users/Address.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/users/Company.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/users/Geo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/pojos/users/User.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/utilities/DataHandler$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/utilities/DataHandler$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/utilities/DataHandler$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/utilities/DataHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/restAssured/solution/utilities/PropertyHandler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/pages/AdminPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/pages/BasePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/pages/NewUserPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/pages/UsersHomePage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/pages/ViewUserDetailsPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/selenium/solution/utilities/PageFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/interview.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Comments Post Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Comments Post Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Comments Put Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Comments Put Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Posts Post Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Posts Post Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Posts Put Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Posts Put Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Users Post Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Users Post Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Users Put Request.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/API Test Solution/Users Put Request.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Create new user test scenarios (0)/Filter user name and email using Equals.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Create new user test scenarios (0)/Filter user name and email using Equals.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Create new user test scenarios/Create and update new user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/Create new user test scenarios/Create and update new user.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TEST-TestSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/TestSuite.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/bullet_point.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/collapseall.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/emailable-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/failed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/jquery-1.7.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.restAssured.solution.comments.PostRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.restAssured.solution.comments.PutRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.restAssured.solution.posts.PostsRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.restAssured.solution.users.PostRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.restAssured.solution.users.PutRequest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.selenium.solution.tests.CreateNewUserTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/junitreports/TEST-com.selenium.solution.tests.UserFiltersTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/navigator-bullet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Comments Post Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Comments Put Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Posts Post Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Posts Put Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Users Post Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/Users Put Request.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/API Test Solution/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/Filter user name and email using Equals.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios (0)/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/Create and update new user.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/classes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/groups.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/methods-alphabetical.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/methods-not-run.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/methods.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/reporter-output.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/testng.xml.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/Create new user test scenarios/toc.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/old/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/passed.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/skipped.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-reports.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng-results.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/surefire-reports/testng.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/extentReport/ExtentManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/extentReport/ExtentTestManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/extentReport/TestListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/comments/PostRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/comments/PutRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/posts/PostsRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/posts/PutRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/specBuilder/SpecBuilder.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/users/PostRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/restAssured/solution/users/PutRequest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/solution/tests/BaseTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/solution/tests/CreateNewUserTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/com/selenium/solution/tests/UserFiltersTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/comments/post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/comments/put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/comments/wrongData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/posts/post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/posts/put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/posts/wrongData.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testSuites/API_Test_Solution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testSuites/Run_All_Suite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testSuites/UI_Test_Solution.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testSuites/createUserSuite.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/testSuites/filterUserTest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/users/Users_Post.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/users/Users_Put.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/users/wrongData.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Exercise" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1doqc1oIQ3Rb2764koHYrGh51wQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="exercise" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/test/resources/comments" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\comments" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\posts" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources" />
+      <recent name="C:\Users\rene\Desktop\MerchantE" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\testSuites" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\Delete" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\posts" />
+      <recent name="C:\Users\rene\Desktop\MerchantE\src\test\resources\users" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Maven.Run_All_Test_Solution">
+    <configuration name="API Test Solution" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-DtestSuiteFile=src/test/resources/testSuites/API_Test_Solution.xml" />
+                <option value="-DplatformPropertyFile=src/main/resources/interview.properties" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="Run_All_Test_Solution" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-DtestSuiteFile=src/test/resources/testSuites/Run_All_Suite.xml" />
+                <option value="-DplatformPropertyFile=src/main/resources/interview.properties" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="UI_Test_Solution" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="clean" />
+                <option value="test" />
+                <option value="-DtestSuiteFile=src/test/resources/testSuites/UI_Test_Solution.xml" />
+                <option value="-DplatformPropertyFile=src/main/resources/interview.properties" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/PostsAPI.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testSuites/PostsAPI.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/createUserSuite.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testSuites/createUserSuite.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/filterUserTest.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/test/resources/testSuites/filterUserTest.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PostsRequest.httpPostCall" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssured.solution.posts.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssured.solution.posts" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssured.solution.posts.PostsRequest" />
+      <option name="METHOD_NAME" value="httpPostCall" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PutRequest.validatePutWithGetRequest (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="Exercise" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.restAssured.solution.users.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.restAssured.solution.users" />
+      <option name="MAIN_CLASS_NAME" value="com.restAssured.solution.users.PutRequest" />
+      <option name="METHOD_NAME" value="validatePutWithGetRequest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.UI_Test_Solution" />
+      <item itemvalue="Maven.Run_All_Test_Solution" />
+      <item itemvalue="Maven.API Test Solution" />
+      <item itemvalue="TestNG.PutRequest.validatePutWithGetRequest (1)" />
+      <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/createUserSuite.xml" />
+      <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/filterUserTest.xml" />
+      <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/PostsAPI.xml" />
+      <item itemvalue="TestNG.PostsRequest.httpPostCall" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.PostsRequest.httpPostCall" />
+        <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/filterUserTest.xml" />
+        <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/createUserSuite.xml" />
+        <item itemvalue="TestNG.C:/Users/rene/Desktop/MerchantE/src/test/resources/testSuites/PostsAPI.xml" />
+        <item itemvalue="TestNG.PutRequest.validatePutWithGetRequest (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8bb5c321-6b99-4b76-abc9-d2d7417e4944" name="Default Changelist" comment="" />
+      <created>1593101868584</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593101868584</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.json" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="722" y="71" key="#Project_Structure" timestamp="1593106451130">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="722" y="71" key="#Project_Structure/0.0.1536.824@0.0.1536.824" timestamp="1593106451130" />
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1593576230064">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="167" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1536.824@0.0.1536.824" timestamp="1593576230064" />
+    <state x="321" y="50" width="991" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593619492705">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="321" y="50" width="991" height="774" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1593619492705" />
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1593581299140">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="93" y="93" width="1350" height="638" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1536.824@0.0.1536.824" timestamp="1593581299140" />
+    <state x="488" y="215" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1593442514720">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="488" y="215" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1593442514720" />
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser" timestamp="1593442721181">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="113" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1593442721181" />
+    <state x="794" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1593460171834">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="794" y="341" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1593460171834" />
+    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1593141827401">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="566" y="272" width="409" height="287" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/0.0.1536.824@0.0.1536.824" timestamp="1593141827401" />
+    <state x="951" y="296" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages" timestamp="1593460174493">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="951" y="296" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.packages/0.0.1536.824@0.0.1536.824" timestamp="1593460174493" />
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog" timestamp="1593582812712">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="306" y="0" key="#com.intellij.refactoring.rename.AutomaticRenamingDialog/0.0.1536.824@0.0.1536.824" timestamp="1593582812712" />
+    <state x="524" y="115" key="#xdebugger.evaluate" timestamp="1593447458959">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="524" y="115" key="#xdebugger.evaluate/0.0.1536.824@0.0.1536.824" timestamp="1593447458959" />
+    <state x="659" y="187" key="FileChooserDialogImpl" timestamp="1593542729416">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="659" y="187" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593542729416" />
+    <state width="1493" height="338" key="GridCell.Tab.0.bottom" timestamp="1593620759212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593620759212" />
+    <state width="1493" height="338" key="GridCell.Tab.0.center" timestamp="1593620759212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1593620759212" />
+    <state width="1493" height="338" key="GridCell.Tab.0.left" timestamp="1593620759212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1593620759212" />
+    <state width="1493" height="338" key="GridCell.Tab.0.right" timestamp="1593620759212">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="338" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1593620759212" />
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1593577700225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593577700225" />
+    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1593577700225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593577700225" />
+    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1593577700225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593577700225" />
+    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1593577700225">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593577700225" />
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog" timestamp="1593542780379">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="299" y="67" key="Maven.ArtifactSearchDialog/0.0.1536.824@0.0.1536.824" timestamp="1593542780379" />
+    <state x="347" y="0" key="SettingsEditor" timestamp="1593110420629">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1593110420629" />
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593233787224">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="465" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593233787224" />
+    <state x="345" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1593464253598">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="148" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1536.824@0.0.1536.824" timestamp="1593464253598" />
+    <state x="462" y="144" width="611" height="536" key="find.popup" timestamp="1593491117636">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="462" y="144" width="611" height="536" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1593491117636" />
+    <state x="425" y="187" key="run.anything.popup" timestamp="1593538242443">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="425" y="187" key="run.anything.popup/0.0.1536.824@0.0.1536.824" timestamp="1593538242443" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/restAssured/solution/comments/PutRequest.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/ViewUserDetailsPage.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/UsersHomePage.java</url>
+          <line>102</line>
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/selenium/solution/pages/NewUserPage.java</url>
+          <line>32</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/selenium/solution/tests/CreateNewUserTest.java</url>
+          <line>74</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="XPathView.XPathProjectComponent">
+    <history>
+      <element expression="&lt;test name=&quot;Filter user name and email using created date&quot;&gt;&#10;        &lt;parameter name=&quot;startDate&quot; value=&quot;2020-05-14&quot;/&gt;&#10;        &lt;parameter name=&quot;endDate&quot; value=&quot;2020-06-30&quot;/&gt;&#10;        &lt;classes&gt;&#10;            &lt;class name=&quot;com.selenium.solution.tests.UserFiltersTest&quot;&gt;&#10;                &lt;methods&gt;&#10;                    &lt;include name=&quot;filter_User_By_Date_From_To&quot;/&gt;&#10;                &lt;/methods&gt;&#10;            &lt;/class&gt;&#10;        &lt;/classes&gt;&#10;    &lt;/test&gt;" />
+    </history>
+    <find-history />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Exercise$C__Users_rene_Desktop_MerchantE_src_test_resources_testSuites_filterUserTest_xml.ic" NAME="$PROJECT_DIR$/src/test/resources/testSuites/filterUserTest.xml Coverage Results" MODIFIED="1593474131075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>

@@ -1,0 +1,71 @@
+[
+  {
+    "id": 9783,
+    "name": "Mrs. Jovani David updated",
+    "username": "Jovani_David_updated",
+    "email": "Jovani_David@jaspr.updated",
+    "address": {
+      "street": "Roberto Erika_updated",
+      "suite": "Apt. 650_updated",
+      "city": "South Biology_updated",
+      "zipcode": "23505-1337_updated",
+      "geo": {
+        "lat": "-72.419711",
+        "lng": "72.747811"
+      }
+    },
+    "phone": "1-477-935-6565 x6411",
+    "website": "erika.updated",
+    "company": {
+      "name": "Considine-freeman_updated",
+      "catchPhrase": "Synchronised bottom-line Abstruct_updated",
+      "bs": "re-enable discavary applications_updated"
+    }
+  },
+  {
+    "id": 9784,
+    "name": "Patricia Lumumba_updated",
+    "username": "Lumumba_updated",
+    "email": "patricia_Lumumba@koko.org_updated",
+    "address": {
+      "street": "Hoeger Mall_updated",
+      "suite": "Apt. 693_updated",
+      "city": "South Presley_updated",
+      "zipcode": "53919-4211",
+      "geo": {
+        "lat": "39.45151",
+        "lng": "-165.2911"
+      }
+    },
+    "phone": "443-170-9623 x111",
+    "website": "kokop.updated",
+    "company": {
+      "name": "just name_updated",
+      "catchPhrase": "Multi-tiered hundred tolerance_updated",
+      "bs": "cutting-edge web applications_updated"
+    }
+  },
+  {
+    "id": 9785,
+    "name": "Chelsea FC_updated",
+    "username": "Lampard_updated",
+    "email": "lampardFC@chelsea.ca_updated",
+    "address": {
+      "street": "Skiles Walking_updated",
+      "suite": "Suite 411",
+      "city": "Atlantaview_updated",
+      "zipcode": "33011",
+      "geo": {
+        "lat": "-21.8111",
+        "lng": "62.4311"
+      }
+    },
+    "phone": "(254)854-1211",
+    "website": "gerardfc.info_updated",
+    "company": {
+      "name": "soccer LLC_updatedss",
+      "catchPhrase": "User-centric_updated",
+      "bs": "revolutionize end-to-end testing_updated"
+    }
+  }
+ ]

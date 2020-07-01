@@ -1,0 +1,13 @@
+com\restAssured\solution\comments\PutRequest.class
+com\restAssured\solution\comments\PostRequest.class
+com\selenium\solution\tests\UserFiltersTest.class
+com\selenium\solution\tests\BaseTest.class
+com\selenium\solution\tests\CreateNewUserTest.class
+com\extentReport\ExtentTestManager.class
+com\restAssured\solution\users\PutRequest.class
+com\restAssured\solution\posts\PutRequest.class
+com\restAssured\solution\posts\PostsRequest.class
+com\extentReport\ExtentManager.class
+com\extentReport\TestListener.class
+com\restAssured\solution\users\PostRequest.class
+com\restAssured\solution\specBuilder\SpecBuilder.class

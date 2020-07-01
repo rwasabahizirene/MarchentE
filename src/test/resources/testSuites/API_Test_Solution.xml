@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="API Test Solution" preserve-order="true">
+    <test name="Users Post Request">
+        <classes>
+            <class name="com.restAssured.solution.users.PostRequest"/>
+        </classes>
+    </test>
+    <test name="Users Put Request">
+        <classes>
+            <class name="com.restAssured.solution.users.PutRequest"/>
+        </classes>
+    </test>
+    <test name="Posts Post Request">
+        <classes>
+            <class name="com.restAssured.solution.posts.PostsRequest"/>
+        </classes>
+    </test>
+    <test name="Posts Put Request">
+        <classes>
+            <class name="com.restAssured.solution.users.PutRequest"/>
+        </classes>
+    </test>
+    <test name="Comments Post Request">
+        <classes>
+            <class name="com.restAssured.solution.comments.PostRequest"/>
+        </classes>
+    </test>
+    <test name="Comments Put Request">
+        <classes>
+            <class name="com.restAssured.solution.comments.PutRequest"/>
+        </classes>
+    </test>
+</suite>

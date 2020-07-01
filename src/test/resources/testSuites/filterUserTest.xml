@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Create new user test scenarios" preserve-order="true">
+    <test name="Filter user name and email using Equals">
+        <classes>
+            <class name="com.selenium.solution.tests.UserFiltersTest">
+                <methods>
+                    <include name="filter_User_By_Name_Email_Equals">
+                        <parameter name="name" value="test"/>
+                        <parameter name="email" value="test@test.com"/>
+                    </include>
+                    <include name="filter_User_By_Name_Email_Contains">
+                        <parameter name="name" value="test"/>
+                        <parameter name="email" value="test"/>
+                    </include>
+                    <include name="filter_User_By_Name_Email_StartsWith">
+                        <parameter name="name" value="test"/>
+                        <parameter name="email" value="test"/>
+                    </include>
+                    <include name="filter_User_By_Name_Email_EndsWith">
+                        <parameter name="name" value="a"/>
+                        <parameter name="email" value="a.aaa"/>
+                    </include>
+                    <include name="filter_User_By_Date_From_To">
+                        <parameter name="startDate" value="2020-06-14"/>
+                        <parameter name="endDate" value="2020-06-30"/>
+                    </include>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

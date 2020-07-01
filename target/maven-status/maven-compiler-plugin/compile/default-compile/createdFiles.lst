@@ -1,0 +1,17 @@
+com\selenium\solution\pages\ViewUserDetailsPage.class
+com\restAssured\solution\pojos\posts\Posts.class
+com\selenium\solution\pages\AdminPage.class
+com\restAssured\solution\utilities\PropertyHandler.class
+com\restAssured\solution\pojos\users\Geo.class
+com\restAssured\solution\utilities\DataHandler$3.class
+com\restAssured\solution\pojos\comments\Comments.class
+com\restAssured\solution\pojos\users\User.class
+com\selenium\solution\pages\UsersHomePage.class
+com\selenium\solution\pages\BasePage.class
+com\restAssured\solution\pojos\users\Address.class
+com\selenium\solution\utilities\PageFactory.class
+com\restAssured\solution\utilities\DataHandler$1.class
+com\restAssured\solution\pojos\users\Company.class
+com\selenium\solution\pages\NewUserPage.class
+com\restAssured\solution\utilities\DataHandler.class
+com\restAssured\solution\utilities\DataHandler$2.class

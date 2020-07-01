@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Create new user test scenarios" preserve-order="true">
+    <test name="Create and update new user">
+        <classes>
+            <class name="com.selenium.solution.tests.CreateNewUserTest">
+                <methods>
+                    <include name="createNewUser">
+                        <parameter name="name" value="testi"/>
+                        <parameter name="email" value="testi@testi.com"/>
+                        <parameter name="password" value="testi"/>
+                        <parameter name="newName" value="jajaUpdate"/>
+                        <parameter name="newEmail" value="jajaUpdate@jaja.com"/>
+                    </include>
+                    <include name="createsAndDeleteUsers">
+                        <parameter name="userName" value="tata"/>
+                        <parameter name="userEmail" value="tata@tata.com"/>
+                        <parameter name="userPassword" value="tata"/>
+                        <parameter name="firstUser" value="jajaUpdate"/>
+                    </include>
+                    <include name="createUserErrorValidation">
+                        <parameter name="userName" value="duplicate"/>
+                        <parameter name="userEmail" value="duplicate@duplicate.com"/>
+                        <parameter name="userPassword" value="duplicate"/>
+                    </include>
+                </methods>
+
+            </class>
+        </classes>
+    </test>
+</suite>

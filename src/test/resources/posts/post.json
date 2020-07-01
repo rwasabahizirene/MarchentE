@@ -1,0 +1,26 @@
+[
+  {
+    "userId": 89967,
+    "id": 79500,
+    "title": "First user Post method",
+    "body": "First user Post method"
+  },
+  {
+    "userId": 87506,
+    "id": 79733,
+    "title": "Second user Post method",
+    "body": "Second user Post method"
+  },
+  {
+    "userId": 90045,
+    "id": 92440,
+    "title": "Third user Post method",
+    "body": "Third user Post method"
+  },
+  {
+    "userId": 81248,
+    "id": 76110,
+    "title": "Forth user Post method",
+    "body": "Forth user Post method"
+  }
+]
