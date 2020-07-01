@@ -29,6 +29,10 @@ How to run the test
       Run_All_Test_Solution:This will run selenium and restassured based solution in a single run
                             (mvn clean test -DtestSuiteFile=src/test/resources/testSuites/Run_All_Suite.xml -DplatformPropertyFile=src/main/resources/interview.properties)
                             <suiteXmlFile>src/test/resources/testSuites/Run_All_Suite.xml</suiteXmlFile>
+  
+  Using Testng xml
+      Under src/test/resources, There are 4 xml files that can be run for the specific solution.
+     
 
 Framework and Libraries used
   Selenium
