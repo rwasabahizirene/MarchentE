@@ -23,11 +23,9 @@ How to run the test
       UI_Test_Solution: This will run the selenium based solution using maven below command. 
                         (mvn clean test -DtestSuiteFile=src/test/resources/testSuites/UI_Test_Solution.xml -DplatformPropertyFile=src/main/resources/interview.properties)
                         <suiteXmlFile>src/test/resources/testSuites/UI_Test_Solution.xml</suiteXmlFile>
-                        
       API_Test_Solutio: This will run the restassured based solution using below command.
                         (mvn clean test -DtestSuiteFile=src/test/resources/testSuites/API_Test_Solution.xml -DplatformPropertyFile=src/main/resources/interview.properties)
-                        <suiteXmlFile>src/test/resources/testSuites/API_Test_Solution.xml</suiteXmlFile>
-                        
+                        <suiteXmlFile>src/test/resources/testSuites/API_Test_Solution.xml</suiteXmlFile>                        
       Run_All_Test_Solution:This will run selenium and restassured based solution in a single run
                             (mvn clean test -DtestSuiteFile=src/test/resources/testSuites/Run_All_Suite.xml -DplatformPropertyFile=src/main/resources/interview.properties)
                             <suiteXmlFile>src/test/resources/testSuites/Run_All_Suite.xml</suiteXmlFile>
